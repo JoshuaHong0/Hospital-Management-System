@@ -7,4 +7,8 @@ The details about the database schema are shown below
 <img src="https://github.com/JoshuaHong0/Hospital-Management-System/blob/master/database_info/ER_diagram.png" width="600" height="400" />
 
 ### Relational Schema
-<img src="https://github.com/JoshuaHong0/Hospital-Management-System/blob/master/database_info/Relational_Schema.jpg" width="400" height="500" />
+<img src="https://github.com/JoshuaHong0/Hospital-Management-System/blob/master/database_info/Relational_Schema.jpg" width="350" height="450" />
+
+## Web application
+### General architecture of User Interface
+<img src="https://github.com/JoshuaHong0/Hospital-Management-System/blob/master/demo/Main_architecture.png" width="700" height="300" />
