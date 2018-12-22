@@ -1,5 +1,5 @@
 # Hospital-Management-System
-This application helps hospital staffs better manage personal information (The information of doctors, nurses, patients and administrators) and medical records. It allows users to interact with the hospital database via web pages. Each user is granted the privileges to the database according to his/her identity. 
+This application helps hospital staffs better manage personal information (The information of doctors, nurses, patients and administrators) and medical records. It allows users to interact with the hospital database via web pages. Each user is granted the privileges on the database according to his/her identity. 
 
 ## Functionality
 1. For doctors, by logging in the system, they can check the list of patients to whom they are assigned (They can only check the list of their own patients). What's more, they can make treatment plans for their patients. (e.g. Set the name of the treatment, decide what medicine to be used and the does of the medicine)
