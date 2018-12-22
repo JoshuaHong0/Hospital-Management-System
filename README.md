@@ -18,3 +18,6 @@ The details about the database schema are shown below
 ## Web application
 ### General architecture of User Interface
 <img src="https://github.com/JoshuaHong0/Hospital-Management-System/blob/master/demo/Main_architecture.png" width="700" height="300" />
+
+## Author
+**Zhezheng Hong** - *Initial work* - [JoshuaHong](https://github.com/JoshuaHong0)
